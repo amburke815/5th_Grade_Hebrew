@@ -10,7 +10,7 @@ such as global warming, hunger, financial inequality, racial inequality and disc
 many others demand some serious Tikkun Olam. <br><br>
 As Jewish thinkers, our goal is to delve deep into a specific, systemic issue. We will examine the exact sources of the 
 problem, current and proposed solutions, and compare and contrast them with Jewish perspectives across a range of sources.
-(See the <a href="requirements">requirements</a> section below). <br><br>
+(See the [requirements](https://github.com/amburke815/5th_Grade_Hebrew/blob/main/Research_Assignment.md#requirements-) section below). <br><br>
 The whole purpose of going to religious school is to grow into responsible, socially conscious Jewish adults, so let's 
 start that process now!
 
